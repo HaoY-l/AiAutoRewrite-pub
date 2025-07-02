@@ -16,7 +16,8 @@ AiAutoRewrite 系统是一个强大的智能内容创作平台，它汇聚了多
 
 
 ## 演示视频🥸
-[![演示视频](https://www.bilibili.com/video/BV1gCgQz3Edr/?vd_source=cff7fcd848c6edafc7ece1f24cea2db5)
+👉 B站观看：[https://www.bilibili.com/video/BV1gCgQz3Edr/](https://www.bilibili.com/video/BV1gCgQz3Edr/)
+
 
 ## 🚀 功能亮点
 ### 核心价值
